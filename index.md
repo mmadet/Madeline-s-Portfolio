@@ -1,4 +1,4 @@
-theme: jekyll-theme-leap-day
+
 ## Madeline Ye's Portfolio
 
 ### About Me: 
