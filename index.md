@@ -6,7 +6,8 @@ I am currently attending the University of California, Davis and studying Applie
 
 
 ### Past Work:
-[]141B-Final-Project/mad_UFO.ipynb
+[UFOs and Natural Disasters](https://github.com/mmadet/STA-141B-Project)
+
 
 
 
