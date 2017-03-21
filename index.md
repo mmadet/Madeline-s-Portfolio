@@ -16,5 +16,9 @@ I am currently attending the University of California, Davis and studying Applie
 
 
 
-#### Contact:
-#### [LinkedIn](https://www.linkedin.com/in/madeline-ye-25283727/)
+
+
+
+
+> #### Contact:
+> #### [LinkedIn](https://www.linkedin.com/in/madeline-ye-25283727/)
