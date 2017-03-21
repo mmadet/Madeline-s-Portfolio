@@ -8,7 +8,7 @@ I am currently attending the University of California, Davis and studying Applie
 * [UFOs and Natural Disasters](https://github.com/mmadet/STA-141B-Project) 
   + Collaboration with fellow classmates
 
-* [Logistic Regression with Categorical Data](https://github.com/mmadet/Assignments)
+>* [Logistic Regression with Categorical Data](https://github.com/mmadet/Assignments)
   + Kyphosis in Infants
   + Rajon Rondo's Assists and Game Wins
   + Car Accident Ejections, Seat belts(Y/N), and Severity of Injury 
